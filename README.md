@@ -48,7 +48,6 @@
 - `outputs/credit_application_datamart.parquet`
 - или `outputs/credit_application_datamart.csv`
 
-> На текущий момент в репозитории загружены результаты проверки качества данных. Финальный файл витрины можно дополнительно выгрузить в `outputs/`, чтобы итог проекта был виден прямо на GitHub.
 
 ## Ключевые результаты quality-check
 
